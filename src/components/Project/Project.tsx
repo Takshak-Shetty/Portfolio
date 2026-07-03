@@ -89,7 +89,7 @@ export function Project() {
                 <a href="https://github.com/Takshak-Shetty/Portfolio" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="GitHub" />
                 </a>
-                <a href="http://www.takshakshetty.com/" target="_blank" rel="noreferrer">
+                <a href="https://takshakshetty.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Live Site" />
                 </a>
               </div>
